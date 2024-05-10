@@ -1,0 +1,2 @@
+1. On windows operating systems, all paths must be in "\" to avoid reporting errors, e.g. "C:\Users\Desktop\00". The input sonar image must be a single image, this executable does not support multiple simultaneous processing.
+2. The naming format of the sonar data must conform:text_CSSTD_XX_(left/right).png; e.g.test_CSSTD_4_left.png
